@@ -229,6 +229,9 @@ The Streamlit dashboard includes:
 - feature relationship view
 - processed data and forecast tables
 - CSV download buttons
+## Dashboard Output
+![](outputs/prj4.1.png)
+![](outputs/prj4explorer1.png)
 
 ## Use Case
 
